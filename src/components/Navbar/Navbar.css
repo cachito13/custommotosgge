@@ -1,0 +1,9 @@
+
+.flex-container {
+    display: flex;
+    justify-content: space-between; /* Distribuye los elementos horizontalmente */
+    align-items: center; /* Para centrar verticalmente los elementos */
+  }
+  .Carrito {
+    color: red;
+  }
