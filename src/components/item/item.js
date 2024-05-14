@@ -10,6 +10,7 @@ const Item = ( {item} ) => {
             <img src={item.img} alt="img"/>
             <p>{item.description}</p>
             <p>Precio: ${item.price}</p>
+            <p><small>Categoria: {item.category} </small></p>
             <button className='btn btn-primary'>Ver más</button>
         </div>
     )

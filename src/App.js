@@ -14,7 +14,8 @@ function App() {
     <NavBar />
     <Routes>
         <Route path='/' element={<><Cardtitle /><Carusel /></>} />
-        <Route path='/Productos' element={<ItemListContainer />} />
+        <Route path='/ItemListContainer' element={<ItemListContainer />} />
+        <Route path='/ItemListContainer/productos/:categoryId' element={ <ItemListContainer /> }/>
         <Route path='/Nosotros' element={<Nosotros />} />
         <Route path='*' element = {<Navigate to= {"/"} />} />
     </Routes>

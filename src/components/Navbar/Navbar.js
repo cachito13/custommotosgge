@@ -2,7 +2,7 @@ import { CartWidget } from '../CartWidget/CartWidget.js';
 import { Navbar, Nav, Container } from 'react-bootstrap';
 import "./Navbar.css"
 import logito from '../../assets estaticos/imgs/logo.jpg';
-
+import { Link } from 'react-router-dom';
 export const NavBar = () => {
     return (
     
@@ -22,12 +22,12 @@ export const NavBar = () => {
             <div>
               <Navbar.Toggle aria-controls="basic-navbar-nav" />
               <Navbar.Collapse id="basic-navbar-nav">
-                <Nav className="me-auto">
-                  <Nav.Link href="#home">Inicio</Nav.Link>
-                  <Nav.Link href="#link">Enlace</Nav.Link>
-                  <Nav.Link href="#about">Acerca de</Nav.Link>
-                  <CartWidget/>
-                </Nav>
+              <Nav className="justify-content-end">
+      <Link to="/" className="me-3">Inicio</Link>
+      <Link to="/ItemListContainer" className="me-3">Productos</Link>
+      <Link to="/Nosotros">Nosotros</Link>
+      <CartWidget />
+    </Nav>
               </Navbar.Collapse>
             </div>   
         
