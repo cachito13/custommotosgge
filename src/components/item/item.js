@@ -1,19 +1,22 @@
 
+import Button from 'react-bootstrap/Button';
+import Card from 'react-bootstrap/Card';
 
 
 
 const Item = ( {item} ) => {
-
-    return (
-        <div className='col-3 m-2'>
-            <h2>{item.name}</h2>
-            <img src={item.img} alt="img"/>
-            <p>{item.description}</p>
-            <p>Precio: ${item.price}</p>
-            <p><small>Categoria: {item.category} </small></p>
-            <button className='btn btn-primary'>Ver más</button>
-        </div>
-    )
+  return (
+    <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src={item.img} alt="img" />
+      <Card.Body>
+        <Card.Title>{item.name}</Card.Title>
+        <Card.Text>{item.description}</Card.Text>
+        <Card.Text>Precio: ${item.price}</Card.Text>
+        <p><small>Categoria: {item.category} </small></p>
+        <Button variant="primary">Ver</Button>
+      </Card.Body>
+    </Card>
+  );
 }
 
 export default Item

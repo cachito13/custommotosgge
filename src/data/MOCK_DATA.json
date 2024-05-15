@@ -3,8 +3,8 @@
         "id": 1,
         "name": "gorra liza",
         "price": 4952.0,
-        "description": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
-        "img": "http://dummyimage.com/200x200.png/cc0000/ffffff",
+        "description": "Gorra Lisa Gabardina Gorras Hombre Mujer Unisex Calidad",
+        "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQdUyQ9uvRGuUZpqM6nMW-29-ogwRjbEkVQd6_mAcji-bjpdWe5qEsp_wDqfmCorNXszlf-fdfbXstKG6akXOhp6U6o9RUqJgbrfm16vDTJaISiCXlwMyT_aaEposCPFOgpXW_gvCXW&usqp=CAc",
         "category": "gorras",
         "stock": 1
     },
@@ -30,8 +30,8 @@
         "id": 4,
         "name": "Gorra CM GGE",
         "price": 1167.87,
-        "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
-        "img": "http://dummyimage.com/200x200.png/cc0000/ffffff",
+        "description": "gorra de lacoste",
+        "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ6VVvr3_av3Ap7IUn-m8P5VGjkZWgJfnADdKTPIDnsvDY31YSAs_TER0ALilqX8gd0kMR3JY144pwU_F4ZFdFudWgH20h9cT7kKVhrFHs9GmELabunZD6w9P9qR7FZ9EfktBZwTIAn&usqp=CAc",
         "category": "gorras",
         "stock": 27
     },
@@ -55,10 +55,10 @@
     },
     {
         "id": 7,
-        "name": "Gorra con Bordados",
+        "name": "Gorra beisbol",
         "price": 7983.99,
-        "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
-        "img": "http://dummyimage.com/200x200.png/dddddd/000000",
+        "description": "GORRA DE BÉISBOL DE SARGA DE ALGODÓN BORDADA EN 3D",
+        "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQLFIavgnq8Ow82LcqToOLCtG5Cy8sNHFPpsbSStoBC_Sqsf7Ep3YGrWIk0fDt2Cgs-prZo1je6Gr8UveEAJEirUdxdGqCOmuKXA-P3RpoWkPvORhKqcMH2K3tdqUSLJyza-eGqMKk-vg&usqp=CAc",
         "category": "gorras",
         "stock": 10
     },
@@ -84,8 +84,8 @@
         "id": 10,
         "name": "Gorra Premiun",
         "price": 3399.87,
-        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",
-        "img": "http://dummyimage.com/200x200.png/cc0000/ffffff",
+        "description": "Destaca con estilo con nuestro cap de gabardina con un diseño bordado exclusivo en el delantero.",
+        "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTbVjLHjvGMMJCSYsAl4-nStyvzd3lF84y8-a4jdDrPoLu7Zpa3IKwgxNJGU8bGynU24VKQ6yL3MLRYQkGVj6KGDOwTP1KoRL8IdWVjk02gCRI3uWpt6d2gIZo&usqp=CAc",
         "category": "gorras",
         "stock": 49
     },
@@ -109,10 +109,10 @@
     },
     {
         "id": 13,
-        "name": "gorra economicas",
+        "name": "gorra hombre",
         "price": 13602.23,
-        "description": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
-        "img": "http://dummyimage.com/200x200.png/cc0000/ffffff",
+        "description": "GORRA DE HOMBRE LACOSTE ACTIVE",
+        "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQOpft69Pnznap8tRkXaIXMh-mMS8-Vy4RD2LSyR4qHMcOY0i-kdejXYozQnJ6xCeFnlYYgB1Nx5Od7L-FO3D-0uvgZTMO04VneN-VI7BCbzw2c7eb9b1eejWj0xtN46UgDvimfu7Fe&usqp=CAc",
         "category": "gorras",
         "stock": 26
     },
@@ -136,10 +136,10 @@
     },
     {
         "id": 16,
-        "name": "Gorras vintage",
+        "name": "GORRA DE PIQUÉ DE ALGODÓN ",
         "price": 2723.79,
-        "description": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
-        "img": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
+        "description": "Obtené Un Aspecto Icónico Con Esta Gorra De Lacoste. Un Accesorio De Uso Diario Del Guardarropa Del Cocodrilo",
+        "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQgHLLNsSVJSkUZO_TtwY5RVqIbP3_kWFQ28RnthbkbOosTOXDExwQDMY1YDCHrPUk0uEW4R4LdnVzUUyI_GaWqCOsObBj2fEJWwKOPoYsxQM_0sPfics6YbSYryux5wbV8dOPxNThfzA&usqp=CAc",
         "category": "gorras",
         "stock": 19
     },
@@ -163,10 +163,10 @@
     },
     {
         "id": 19,
-        "name": "Gorras de camionero",
+        "name": "Gorra unisex",
         "price": 14032.95,
-        "description": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
-        "img": "http://dummyimage.com/200x200.png/cc0000/ffffff",
+        "description": "Los complementos imprescindibles del armario Lacoste. Gorra disponible en una amplia gama de colores, esta gorra con su icónico cocodrilo verde es imprescindible para todo fan de Lacoste.",
+        "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTpe_WJ8XNW0MiCBW6O-JiRv-7zQLFKVaTjJQJyebeCv5L6RIgTvOq1y29y9e0AKhQ1664uodvclpFrKLDfHu85WKKEQmqRFWPLVbpF2Q3fSMXb8t52mmoU8cxLr3Stqkdo6jwF8XXKWA&usqp=CAc",
         "category": "gorras",
         "stock": 4
     }

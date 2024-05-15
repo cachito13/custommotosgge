@@ -3,6 +3,7 @@ import { Navbar, Nav, Container } from 'react-bootstrap';
 import "./Navbar.css"
 import logito from '../../assets estaticos/imgs/logo.jpg';
 import { Link } from 'react-router-dom';
+
 export const NavBar = () => {
     return (
     
@@ -15,7 +16,7 @@ export const NavBar = () => {
                     src={logito} // Aquí especificas directamente la ruta de la imagen
                     alt="Logo"
                     height="70"
-                    className="d-inline-block align-top"/>
+                     className="d-inline-block align-top"/>
                 </Navbar.Brand>
             </div>
 
@@ -23,11 +24,11 @@ export const NavBar = () => {
               <Navbar.Toggle aria-controls="basic-navbar-nav" />
               <Navbar.Collapse id="basic-navbar-nav">
               <Nav className="justify-content-end">
-      <Link to="/" className="me-3">Inicio</Link>
-      <Link to="/ItemListContainer" className="me-3">Productos</Link>
-      <Link to="/Nosotros">Nosotros</Link>
-      <CartWidget />
-    </Nav>
+                  <Link to="/" className="me-3">Inicio</Link>
+                  <Link to="/ItemListContainer" className="me-3">Productos</Link>
+                  <Link to="/Nosotros">Nosotros</Link>
+                  <CartWidget />
+            </Nav>
               </Navbar.Collapse>
             </div>   
         
